@@ -147,7 +147,7 @@
 
                                 <div class="form-group">
 									<label>Total Charge</label>
-									<input type="text" class="form-control" value="$ <?php  echo $row['ParkingCharge'];?>" id="parkingcharge" name="parkingcharge" readonly>
+									<input type="text" class="form-control" value="R <?php  echo $row['ParkingCharge'];?>" id="parkingcharge" name="parkingcharge" readonly>
 								</div>
 
 
