@@ -1,7 +1,7 @@
 <?php 
  
     include 'dbconn.php';
-    date_default_timezone_set('Asia/Kathmandu');
+    date_default_timezone_set('Africa/Johannesburg');
     //Here we define out main variables 
     $welcome_string="Welcome"; 
     $numeric_date=date("G"); 
